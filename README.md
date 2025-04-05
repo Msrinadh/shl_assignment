@@ -1,4 +1,6 @@
-# SHL Assessment Recommendation Engine
+🧠 **SHL Assessment Recommendation System**  
+
+👉 [https://msrinadh-shl-assignment-app-buuej4.streamlit.app/](https://msrinadh-shl-assignment-app-buuej4.streamlit.app/)
 
 A smart AI-powered engine that recommends the most relevant SHL assessments for a given job description (JD). Built using sentence embeddings, FastAPI, Streamlit, and BeautifulSoup-based JD scraping.
 
@@ -41,3 +43,5 @@ Streamlit (Frontend)
 streamlit run app.py
 FastAPI (Backend)
 uvicorn api:app --reload
+
+
